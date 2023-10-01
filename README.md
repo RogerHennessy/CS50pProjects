@@ -1,7 +1,7 @@
 # CS50pProjects
-### My projects for CS50p
+## My projects for CS50p
 
-[Week 0](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200) - Functions, Variables
+### [Week 0](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200) - Functions, Variables
 
 + [Indoor Voice](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/indoor)
 
@@ -14,28 +14,38 @@
 + [Tip Calculator](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/tip)
 
 
-[Week 1](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201) - Conditionals
+### [Week 1](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201) - Conditionals
 
 + [Deep Thought](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201/deep)
 
-+ [Playback Speed](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/playback)
++ [Home Federal Savings Bank](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201/bank)
 
-+ [Making Faces](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/faces)
++ [File Extensions](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201/extensions)
 
-+ [Einstein](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/einstein)
++ [Math Interpreter](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201/interpreter)
 
-+ [Tip Calculator](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/tip)
++ [Meal Time](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%201/meal)
 
 
-[Week 0](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200) - Functions, Variables
+### [Week 2](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%202) - Loops
 
-+ [Indoor Voice](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/indoor)
++ [camelCase](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%202/camel)
 
-+ [Playback Speed](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/playback)
++ [Coke Machine](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%202/coke)
 
-+ [Making Faces](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/faces)
++ [Just setting up my twttr](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%202/twttr)
 
-+ [Einstein](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/einstein)
++ [Vanity Plates](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%202/plates)
 
-+ [Tip Calculator](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%200/tip)
++ [Nutrition Facts](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%202/nutrition)
 
+
+### [Week 3](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203) - Exceptions
+
++ [Fuel Gauge](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203/fuel)
+
++ [Felipe’s Taqueria](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203/taqueria)
+
++ [Grocery List](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203/grocery)
+
++ [Outdated](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203/outdated)
