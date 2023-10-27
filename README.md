@@ -49,3 +49,46 @@
 + [Grocery List](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203/grocery)
 
 + [Outdated](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203/outdated)
+
+
+### [Week 4](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204) - Libraries
+
++ [Emonize](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204/emojize)
+
++ [Frank, Ian and Glean's Letter](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204/figlet)
+
++ [Adieu, adieu](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204/adieu)
+
++ [Guessing Game](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204/game)
+
++ [Little Professor](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204/professor)
+
++ [Bitcoin Price Index](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%204/bitcoin)
+  
+
+### [Week 5](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%205) - Unit Tests
+
++ [Testing My Twttr](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%205/test_twttr)
+
++ [Back to the Bank](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%205/test_bank)
+
++ [Re-requesting a Vanity Plate](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%205/test_plates)
+
++ [Refueling](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%205/test}_fuel)
+   
+
+### [Week 6](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%203) - File I/O
+
++ [Lines of Code](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%206/lines)
+
++ [Pizza Py](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%206/pizza)
+
++ [Scourgify](https://github.com/RogerHennessy/CS50pProjects/tree/main/Week%206/scourgify)
+
+ 
+
+### [Week 7]
+
+### [Week 8]
+
+### [Week 9]
